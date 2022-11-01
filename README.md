@@ -7,7 +7,7 @@
     
 
 🌱 I’m currently learning 
-    More advanced uses of SQL, Power BI, Tableau, Python and R.
+    more advanced uses of SQL, Power BI, Tableau, Python and R.
 
 📫 How to reach me
    LinkedIn : https://www.linkedin.com/in/shiva-shankari-rajaram/
