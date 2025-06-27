@@ -1,6 +1,6 @@
  👋 Hi, I’m Shiva Shankari Rajaram
  
-    I'm a Data Analyst with 2+ years of experience from Amazon building and enhancing ETL workflows and data models
+    I'm a Data Analyst with 5+ years of experience from Amazon building and enhancing ETL workflows and data models
     that handle millions of records of data to deliver meaningful and actionable insights. I am seeking an opportunity 
     to leverage my diverse skills at your organization using statistical techniques.
     
